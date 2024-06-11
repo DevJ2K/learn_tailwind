@@ -1,5 +1,5 @@
 <template>
-	<div class="absolute top-0 flex w-full flex-row justify-between bg-blue-700 px-14 py-6">
+	<div class="absolute top-0 flex w-full flex-row justify-between bg-blue-300 px-16 py-10">
 		<div>
 
 			<h1>DevJ2K</h1>
