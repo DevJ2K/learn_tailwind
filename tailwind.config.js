@@ -15,6 +15,7 @@ export default {
         Poppins: ["Poppins, sans-serif"]
       },
       container: {
+        maxWidth: "1000px",
         padding: "2rem",
         center: true
       },
